@@ -1,19 +1,95 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ch Venkata Shiva Sri
-============================================================================================================================================
+# 🌟 CH VENKATA SHIVA SRI
 
-Passionate about innovation, with a keen interest in Full-Stack Web Development and AI/ML Enthusiast
-----------------------------------------------------------------------------------------------------
+Welcome to my personal profile repository! Here, you'll find everything about me, my skills, projects, and how to connect with me. Dive in and let's get to know each other!
 
-Full-Stack Web Developer | AI & ML Enthusiast | Innovator I’m a passionate Full-Stack Web Developer with a strong foundation in AI and Machine Learning. My expertise spans both front-end and back-end technologies, where I build responsive, user-friendly interfaces using HTML, CSS, and JavaScript, alongside frameworks like React. On the server side, I work with Node.js, Python, and various databases to develop scalable and robust applications. My interest in AI/ML drives me to integrate intelligent features into my projects, leveraging data-driven insights to enhance user experiences. Whether it’s developing a dynamic web application or implementing machine learning models, I’m dedicated to pushing the boundaries of what’s possible with technology.
+---
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [shivamchodisetty333@gmail.com](mailto:shivamchodisetty333@gmail.com)
-* 🧠  I'm learning fellow at CCBP Academy
-* 🤝  I'm open to collaborating on real time projects like live websites
+## 📖 Table of Contents
+- [🙋‍♂️ About Me](https://github.com/Prabhukumar-13#%EF%B8%8F-about-me)
+- [🛠️ Skills](https://github.com/Prabhukumar-13#%EF%B8%8F-skills)
+- [🚀 Projects](https://github.com/Prabhukumar-13#-projects)
+- [📬 Contact](https://github.com/Prabhukumar-13#-contact)
 
-### Skills
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
+## 🙋‍♂️ About Me
 
+Hello! I'm **Mamidisetti Prabhu Kumar**, a passionate Undergraduate with a love for **Machine Learning, Artificial Intelligence, and Web Development**. I thrive on challenges and enjoy working on projects that involve these cutting-edge technologies. My journey is driven by curiosity and the pursuit of knowledge.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+- **C**
+- **JAVA**
+- **PYTHON**
+<!--
+### 📚 Frameworks & Libraries
+- **[Framework 1]**
+- **[Framework 2]**
+- **[Framework 3]**
+-->
+### 🛠️ Tools & Platforms
+- **VISUAL STUDIO**
+- **GOOGLE COLAB**
+- **JUPTIOR NOTEBOOK**
+
+### 🌱 Soft Skills
+- **Team Work**
+- **Communication**
+- **Time Management**
+- **Problem Solving**
+---
+
+## 🚀 Projects
+
+### 🚶‍♂️ Human Activity Recognition with Smartphones
+- **Description**: Developed a HAR system to classify activities like walking, running, and sitting using smartphone sensor data.
+- **Technologies**: Python, TensorFlow, Scikit-learn
+- **Dataset**: [Human Activity Recognition with Smartphones Dataset](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones?resource=download)
+- **Repository**: [Link of repository](https://github.com/Prabhukumar-13/Human-Activity-Recognition-with-Smartphone)
+
+---
+
+## 📬 Contact
+
+Let's connect! You can find me on these platforms:
+
+-  **LinkedIn:** https://www.linkedin.com/in/mamidisetti-prabhu-kumar/
+-  **GitHub:** https://github.com/Prabhukumar-13
+
+---
+
+✨ *Thank you for visiting my profile! I'm always excited to explore new opportunities and collaborations. Let's build something great together!* ✨
+
+
+<!--
+**Prabhukumar-13/Prabhukumar-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<!--
+**Prabhukumar-13/Prabhukumar-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
