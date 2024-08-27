@@ -47,7 +47,7 @@ Hello! I'm **Ch Venkata Shiva Sri**, a passionate Undergraduate with a love for 
 
 ## 🚀 Projects
 
-### 🚶‍♂️ Chatbot development for SR University
+### 🤖 Chatbot development for SR University
 - **Description**: Developed an intelligent chatbot capable of natural language understanding and responding to user(student) queries about University. The chatbot was designed to handle various tasks such as answering FAQs, providing various types of information about college and providing real time links.
 - **Dataset**: [Chatbot development for SR University](https://github.com/Mrinnovater/AIML_Project/blob/main/SRU_DATASET.json)
 - **Repository**: [Link of repository](https://github.com/Mrinnovater/AIML_Project)
