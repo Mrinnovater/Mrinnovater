@@ -11,10 +11,6 @@ Full-Stack Web Developer | AI & ML Enthusiast | Innovator I’m a passionate Ful
 * 🧠  I'm learning fellow at CCBP Academy
 * 🤝  I'm open to collaborating on real time projects like live websites
 
-<a href="https://www.github.com/https://github.com/Mrinnovater" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/Mrinnovater?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a><a href="https://www.x.com/https://x.com/Shivashetty786?t=wtFVjUzH8RU-G6GvCv7cnA&s=08" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https://x.com/Shivashetty786?t=wtFVjUzH8RU-G6GvCv7cnA&s=08?logo=twitter&style=for-the-badge&color=ef4444&labelColor=0f172a"
-/></a>
 ### Skills
 
 <p align="left">
@@ -23,15 +19,4 @@ src="https://img.shields.io/twitter/follow/https://x.com/Shivashetty786?t=wtFVjU
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/https://github.com/Mrinnovater" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/https://www.instagram.com/mr._.nature._.adictor/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/shiva-shetty-976245296" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/https://x.com/Shivashetty786?t=wtFVjUzH8RU-G6GvCv7cnA&s=08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
-
-<a href="https://github.com/https://github.com/Mrinnovater" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mrinnovater&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/https://github.com/Mrinnovater/Transportation-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Mrinnovater&repo=Transportation-&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/https://github.com/Mrinnovater/STAT_ML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Mrinnovater&repo=STAT_ML&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/https://github.com/Mrinnovater/AIML_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Mrinnovater&repo=AIML_Project&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+<p align="left"> <a href="https://www.linkedin.com/in/www.linkedin.com/in/shiva-shetty-976245296" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
