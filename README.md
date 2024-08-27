@@ -1,20 +1,20 @@
-# 🌟 CH VENKATA SHIVA SRI
+# 🌟 Ch Venkata Shiva Sri
 
 Welcome to my personal profile repository! Here, you'll find everything about me, my skills, projects, and how to connect with me. Dive in and let's get to know each other!
 
 ---
 
 ## 📖 Table of Contents
-- [🙋‍♂️ About Me](https://github.com/Prabhukumar-13#%EF%B8%8F-about-me)
-- [🛠️ Skills](https://github.com/Prabhukumar-13#%EF%B8%8F-skills)
-- [🚀 Projects](https://github.com/Prabhukumar-13#-projects)
-- [📬 Contact](https://github.com/Prabhukumar-13#-contact)
+- [🙋‍♂️ About Me](https://github.com/Mrinnovater/Mrinnovater/blob/main/README.md#%EF%B8%8F-about-me)
+- [🛠️ Skills](https://github.com/Mrinnovater/Mrinnovater/blob/main/README.md#%EF%B8%8F-skills)
+- [🚀 Projects](https://github.com/Mrinnovater/Mrinnovater/blob/main/README.md#-projects)
+- [📬 Contact](https://github.com/Mrinnovater/Mrinnovater/blob/main/README.md#-contact)
 
 ---
 
 ## 🙋‍♂️ About Me
 
-Hello! I'm **Mamidisetti Prabhu Kumar**, a passionate Undergraduate with a love for **Machine Learning, Artificial Intelligence, and Web Development**. I thrive on challenges and enjoy working on projects that involve these cutting-edge technologies. My journey is driven by curiosity and the pursuit of knowledge.
+Hello! I'm **Ch Venkata Shiva Sri**, a passionate Undergraduate with a love for **Machine Learning, Artificial Intelligence, and Web Development**. I thrive on challenges and enjoy working on projects that involve these cutting-edge technologies. My journey is driven by curiosity and the pursuit of knowledge.
 
 ---
 
@@ -24,6 +24,9 @@ Hello! I'm **Mamidisetti Prabhu Kumar**, a passionate Undergraduate with a love 
 - **C**
 - **JAVA**
 - **PYTHON**
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
 <!--
 ### 📚 Frameworks & Libraries
 - **[Framework 1]**
@@ -33,7 +36,7 @@ Hello! I'm **Mamidisetti Prabhu Kumar**, a passionate Undergraduate with a love 
 ### 🛠️ Tools & Platforms
 - **VISUAL STUDIO**
 - **GOOGLE COLAB**
-- **JUPTIOR NOTEBOOK**
+- **JUPYTER NOTEBOOK**
 
 ### 🌱 Soft Skills
 - **Team Work**
@@ -44,11 +47,10 @@ Hello! I'm **Mamidisetti Prabhu Kumar**, a passionate Undergraduate with a love 
 
 ## 🚀 Projects
 
-### 🚶‍♂️ Human Activity Recognition with Smartphones
-- **Description**: Developed a HAR system to classify activities like walking, running, and sitting using smartphone sensor data.
-- **Technologies**: Python, TensorFlow, Scikit-learn
-- **Dataset**: [Human Activity Recognition with Smartphones Dataset](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones?resource=download)
-- **Repository**: [Link of repository](https://github.com/Prabhukumar-13/Human-Activity-Recognition-with-Smartphone)
+### 🚶‍♂️ Chatbot development for SR University
+- **Description**: Developed an intelligent chatbot capable of natural language understanding and responding to user(student) queries about University. The chatbot was designed to handle various tasks such as answering FAQs, providing various types of information about college and providing real time links.
+- **Dataset**: [Chatbot development for SR University](https://github.com/Mrinnovater/AIML_Project/blob/main/SRU_DATASET.json)
+- **Repository**: [Link of repository](https://github.com/Mrinnovater/AIML_Project)
 
 ---
 
@@ -56,8 +58,8 @@ Hello! I'm **Mamidisetti Prabhu Kumar**, a passionate Undergraduate with a love 
 
 Let's connect! You can find me on these platforms:
 
--  **LinkedIn:** https://www.linkedin.com/in/mamidisetti-prabhu-kumar/
--  **GitHub:** https://github.com/Prabhukumar-13
+-  **LinkedIn:** https://www.linkedin.com/in/ch-venkata-shiva-sri-976245296/
+-  **GitHub:** https://github.com/Mrinnovater
 
 ---
 
