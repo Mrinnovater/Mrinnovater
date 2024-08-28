@@ -60,7 +60,8 @@ Let's connect! You can find me on these platforms:
 
 -  **LinkedIn:** https://www.linkedin.com/in/ch-venkata-shiva-sri-976245296/
 -  **GitHub:** https://github.com/Mrinnovater
-
+-  **Email ID:**
+shivamchodisetty333@gmail.com
 ---
 
 ✨ *Thank you for visiting my profile! I'm always excited to explore new opportunities and collaborations. Let's build something great together!* ✨
