@@ -9,7 +9,7 @@
     Hi there, I'm Ch Venkata Shiva Sri 👋
   </h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=480&lines=Undergraduate+Student;Passionate+about+AI+&+Machine+Learning;Full-Stack+Web+Enthusiast;Turning+Ideas+into+Reality!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=480&lines=Undergraduate+Student;Passionate+about+AI+%26+Machine+Learning;Full-Stack+Web+Enthusiast;Turning+Ideas+into+Reality!" alt="Typing SVG" />
   </a>
 </div>
 
