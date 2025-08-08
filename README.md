@@ -22,31 +22,28 @@
 
 ---
 
-### 🚀 About Me & My Stats
+### 🙋‍♂️ About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <p>Hello! I'm an undergraduate from Miryalaguda with a deep passion for the intersection of <strong>Machine Learning, Artificial Intelligence, and Web Development</strong>. I am driven by curiosity and thrive on solving complex problems with cutting-edge technology.</p>
-      <ul>
-        <li>🌱 I’m currently diving deeper into <b>Advanced Neural Networks</b> and <b>Full-Stack Frameworks</b>.</li>
-        <li>👯 I’m looking to collaborate on innovative <b>AI-powered web applications</b>.</li>
-        <li>💬 Ask me about <b>Python, Java, or anything related to ML!</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mrinnovater&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs" alt="GitHub Stats" />
-      
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinnovater&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p>Hello! I'm an undergraduate from Miryalaguda with a deep passion for the intersection of <strong>Machine Learning, Artificial Intelligence, and Web Development</strong>. I am driven by curiosity and thrive on solving complex problems with cutting-edge technology.</p>
+
+- 🌱 I’m currently diving deeper into **Advanced Neural Networks** and **Full-Stack Frameworks**.
+- 👯 I’m looking to collaborate on innovative **AI-powered web applications**.
+- 💬 Ask me about **Python, Java, or anything related to ML!**
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrinnovater&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinnovater&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ---
 
 ### 💻 My Tech Stack
 
-<table align="center">
+<table align="center" style="width:100%; border:none;">
   <tr>
     <td align="center" width="200"><strong>Languages</strong></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="Languages" /></td>
