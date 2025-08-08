@@ -44,21 +44,10 @@
 
 ### 💻 My Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="200"><strong>Languages</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI / ML</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="AI Tools" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Platforms</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,colab,jupyter,git,github" alt="Tools" /></td>
-  </tr>
-</table>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,tensorflow,sklearn,opencv,vscode,git,github" />
+</p>
 ---
 
 ### 🔥 My GitHub Activity
