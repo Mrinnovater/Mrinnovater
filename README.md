@@ -9,7 +9,7 @@
     Hi there, I'm Ch Venkata Shiva Sri 👋
   </h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=480&lines=Undergraduate+Student;Passionate+about+AI+%26+Machine+Learning;Full-Stack+Web+Enthusiast;Turning+Ideas+into+Reality!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=550&lines=Passionate+about+AI+%26+Machine+Learning;Full-Stack+Web+Enthusiast;Turning+Ideas+into+Reality!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,16 +27,15 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <p>Hello! I'm an undergraduate with a deep passion for the intersection of <strong>Machine Learning, Artificial Intelligence, and Web Development</strong>. I am driven by curiosity and thrive on solving complex problems with cutting-edge technology.</p>
+      <p>Hello! I'm an undergraduate from Miryalaguda with a deep passion for the intersection of <strong>Machine Learning, Artificial Intelligence, and Web Development</strong>. I am driven by curiosity and thrive on solving complex problems with cutting-edge technology.</p>
       <ul>
         <li>🌱 I’m currently diving deeper into <b>Advanced Neural Networks</b> and <b>Full-Stack Frameworks</b>.</li>
-        <li>👯 I’m looking to collaborate on innovative <b>AI-powered web applications</b> and <b>Python-based projects</b>.</li>
-        <li>💬 Ask me about <b>Python, Java, Machine Learning algorithms, or Web Development!</b></li>
-        <li>⚡ Fun fact: I enjoy visualizing complex data patterns – it's like finding art in numbers!</li>
+        <li>👯 I’m looking to collaborate on innovative <b>AI-powered web applications</b>.</li>
+        <li>💬 Ask me about <b>Python, Java, or anything related to ML!</b></li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mrinnovater&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ch Venkata Shiva Sri's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Mrinnovater&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs" alt="GitHub Stats" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinnovater&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
@@ -46,40 +45,26 @@
 
 ### 💻 My Tech Stack
 
-<p align="center">
-  <strong>Languages & Web Technologies:</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Languages and Web Skills" />
-  <br><br>
-  <strong>Tools & Platforms:</strong><br>
-  <img src="https://skillicons.dev/icons?i=vscode,colab,jupyter,git,github" alt="Tools & Platforms" />
-</p>
-
----
-
-### ✨ Featured Project
-
-<p align="center">
-  <a href="https://github.com/Mrinnovater/AIML_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mrinnovater&repo=AIML_Project&theme=tokyonight" alt="Chatbot for SR University Project" />
-  </a>
-</p>
-<p align="center">
-  <i>Developed an intelligent chatbot for SR University to handle student queries using Natural Language Processing.</i>
-  <br>
-  <a href="https://github.com/Mrinnovater/AIML_Project/blob/main/SRU_DATASET.json"><b>View Dataset</b></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Languages</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,colab,jupyter,git,github" alt="Tools & Platforms" /></td>
+  </tr>
+</table>
 
 ---
 
 ### 🔥 My GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrinnovater&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Mrinnovater&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrinnovater&theme=tokyo-night&hide_border=true&hide_title=false&area=true&line=00BFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrinnovater&theme=tokyo-night&hide_border=true&area=true&line=00BFFF" alt="Contribution Graph" />
 </p>
 
 ---
