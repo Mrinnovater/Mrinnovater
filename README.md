@@ -36,7 +36,8 @@
     </td>
     <td width="40%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Mrinnovater&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinnovater&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinnovater&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
     </td>
   </tr>
 </table>
