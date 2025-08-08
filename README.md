@@ -9,13 +9,14 @@
     Hi there, I'm Ch Venkata Shiva Sri 👋
   </h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=435&lines=Undergraduate+Student;Passionate+about+AI+%26+Machine+Learning;Full-Stack+Web+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=480&lines=Undergraduate+Student;Passionate+about+AI+%26+Machine+Learning;Full-Stack+Web+Enthusiast;Turning+Ideas+into+Reality!" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ch-venkata-shiva-sri-976245296/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Mrinnovater" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://leetcode.com/u/Shiva33_19/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://mrinnovater.github.io/My-Portfolio/homepage.html" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3393FF?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:shivamchodisetty333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -29,9 +30,9 @@
       <p>Hello! I'm an undergraduate with a deep passion for the intersection of <strong>Machine Learning, Artificial Intelligence, and Web Development</strong>. I am driven by curiosity and thrive on solving complex problems with cutting-edge technology.</p>
       <ul>
         <li>🌱 I’m currently diving deeper into <b>Advanced Neural Networks</b> and <b>Full-Stack Frameworks</b>.</li>
-        <li>👯 I’m looking to collaborate on innovative <b>AI-powered web applications</b>.</li>
-        <li>💬 Ask me about <b>Python, Java, or anything related to ML models!</b></li>
-        <li>⚡ Fun fact: I believe the best code is written with a cup of coffee nearby!</li>
+        <li>👯 I’m looking to collaborate on innovative <b>AI-powered web applications</b> and <b>Python-based projects</b>.</li>
+        <li>💬 Ask me about <b>Python, Java, Machine Learning algorithms, or Web Development!</b></li>
+        <li>⚡ Fun fact: I enjoy visualizing complex data patterns – it's like finding art in numbers!</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -46,13 +47,11 @@
 ### 💻 My Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,colab,jupyter,git,github" />
-  </a>
+  <strong>Languages & Web Technologies:</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Languages and Web Skills" />
+  <br><br>
+  <strong>Tools & Platforms:</strong><br>
+  <img src="https://skillicons.dev/icons?i=vscode,colab,jupyter,git,github" alt="Tools & Platforms" />
 </p>
 
 ---
