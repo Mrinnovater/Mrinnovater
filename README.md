@@ -1,75 +1,86 @@
-<div align="center">
-  
-  # 🌟 Ch Venkata Shiva Sri
-  
-  ### 🚀 AI/ML Enthusiast | Web Developer | Innovator
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=AI/ML+Developer;Web+Developer;Always+Exploring+and+Building" alt="Typing Animation" />
+<p align="center">
+  <a href="https://github.com/Mrinnovater">
+    <img src="https://raw.githubusercontent.com/Mrinnovater/Mrinnovater/main/header.gif" alt="Animated Banner" width="900"/>
+  </a>
+</p>
 
+<div align="center">
+  <h1>Hi there, I'm Ch Venkata Shiva Sri 👋</h1>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=550&lines=Passionate+about+AI+%26+Machine+Learning;Full-Stack+Web+Enthusiast;Turning+Ideas+into+Reality!" alt="Typing SVG" />
+  </a>
 </div>
 
----
-
-## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ch-venkata-shiva-sri-976245296/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Mrinnovater"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:shivamchodisetty333@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ch-venkata-shiva-sri-976245296/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/Shiva33_19/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://mrinnovater.github.io/My-Portfolio/homepage.html" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3393FF?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:shivamchodisetty333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 🛠 My Tech Stack
+### 🚀 About Me & My Stats
 
-#### 💻 Programming & AI/ML
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p>Hello! I'm an undergraduate from Miryalaguda with a deep passion for the intersection of <strong>Machine Learning, Artificial Intelligence, and Web Development</strong>. I am driven by curiosity and thrive on solving complex problems with cutting-edge technology.</p>
+      <ul>
+        <li>🌱 Currently exploring <b>Advanced Neural Networks</b> & <b>Full-Stack Frameworks</b>.</li>
+        <li>👯 Open to collaborating on innovative <b>AI-powered web applications</b>.</li>
+        <li>💬 Ask me about <b>Python, Java, or anything ML-related</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mrinnovater&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinnovater&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 My Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Languages</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AI / ML</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" alt="AI Tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,colab,jupyter,git,github" alt="Tools" /></td>
+  </tr>
+</table>
+
+---
+
+### 🔥 My GitHub Activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://streak-stats.demolab.com/?user=Mrinnovater&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-#### 🌐 Web Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-#### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrinnovater&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrinnovater&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrinnovater&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrinnovater&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</div>
+### 🚀 Featured Project
 
----
-
-## 🚀 Featured Project
-
-### 🤖 Chatbot Development for SR University
-- **Description**: Developed an intelligent chatbot capable of natural language understanding and answering student queries about SR University.  
+#### 🤖 Chatbot Development for SR University
+- **Description**: Built an intelligent chatbot capable of natural language understanding and answering student queries about SR University.  
 - **Dataset**: [View Dataset](https://github.com/Mrinnovater/AIML_Project/blob/main/SRU_DATASET.json)  
 - **Repository**: [Visit Repository](https://github.com/Mrinnovater/AIML_Project)  
 
 ---
 
-## 🌱 Soft Skills
-- Teamwork 🤝
-- Communication 🗣️
-- Time Management ⏳
-- Problem Solving 🧩
-
----
-
-✨ *Thanks for visiting! Let’s collaborate and build something amazing!* ✨
+<p align="center">
+  ✨ <em>Thanks for visiting my profile! Let's connect and innovate together.</em> ✨
+</p>
